@@ -178,9 +178,3 @@ Overall, the dashboard provides a practical foundation for content strategy revi
 
 ---
 
-## 11. Future Enhancements
-
-1. Add monthly/yearly trend analysis using `added_to_platform`
-2. Create Originals vs Non-Originals comparative dashboard page
-3. Build a separate data dictionary file with business definitions and units
-4. Introduce validation rules for unique ID integrity and duplicate tracking
